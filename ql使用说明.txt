@@ -1,0 +1,6 @@
+ wget https://git.yumenaka.net/https://github.com/FangZhoucloud/ql/blob/SC/ql.sh && bash ql.sh 
+
+
+
+注：本脚本一键安装青龙+ninja
+青龙版本为2.10.13
